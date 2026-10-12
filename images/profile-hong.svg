@@ -3,5 +3,5 @@
   <circle cx="240" cy="165" r="82" fill="#d1d5db"/>
   <circle cx="240" cy="145" r="54" fill="#9ca3af"/>
   <path d="M140 395c14-88 66-137 100-137s86 49 100 137" fill="#334155"/>
-  <text x="240" y="446" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">Hong | Toan Tin</text>
+  <text x="240" y="446" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#111827">Lê Thị Hồng Đang | Toán - Tin học</text>
 </svg>

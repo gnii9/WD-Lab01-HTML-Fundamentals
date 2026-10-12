@@ -6,8 +6,9 @@
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="28"
+        font-weight="bold"
         fill="#111827">
-    Data Learning Roadmap
+    Lộ trình Phân tích Dữ liệu
   </text>
 
   <rect x="145" y="145" width="550" height="46" fill="#e5e7eb"/>
@@ -19,27 +20,27 @@
         font-family="Arial, sans-serif"
         font-size="20"
         fill="#111827">
-    Step 1 - SQL queries
+    Giai đoạn 1 - Truy vấn dữ liệu với SQL
   </text>
 
   <text x="180" y="236"
         font-family="Arial, sans-serif"
         font-size="20"
         fill="#111827">
-    Step 2 - Data cleaning
+    Giai đoạn 2 - Làm sạch và chuẩn hóa dữ liệu
   </text>
 
   <text x="180" y="296"
         font-family="Arial, sans-serif"
         font-size="20"
         fill="#111827">
-    Step 3 - Power BI charts
+    Giai đoạn 3 - Trực quan hóa số liệu
   </text>
 
   <text x="180" y="356"
         font-family="Arial, sans-serif"
         font-size="20"
         fill="#111827">
-    Step 4 - Explain insights
+    Giai đoạn 4 - Phân tích và diễn giải kết quả
   </text>
 </svg>

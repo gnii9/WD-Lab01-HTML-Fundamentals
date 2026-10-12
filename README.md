@@ -1,34 +1,47 @@
-# WD Lab01 - HTML Fundamentals
+# WD-Lab01: HTML Fundamentals & Document Structure
 
-Portfolio của Hồng và sáu bài thực hành HTML thuần, không CSS/JavaScript.
+Dự án Portfolio cá nhân và sáu chuyên đề thực hành HTML5 chuẩn semantic, được thiết kế theo hướng tiếp cận hiện đại (UI/UX Design System bằng Vanilla CSS) và quản lý mã nguồn qua Git/GitHub.
 
-## Chạy
+---
 
-Đặt thư mục html-fundamentals-lab trong C:\xampp\htdocs, Start Apache,
-rồi mở http://localhost/html-fundamentals-lab/.
+## 🚀 Hướng dẫn Chạy trên Localhost (XAMPP)
 
-## Nội dung
+1. Sao chép hoặc clone thư mục `html-fundamentals-lab` vào thư mục `C:\xampp\htdocs\`.
+2. Mở **XAMPP Control Panel**, nhấn **Start** dịch vụ **Apache** (cổng mặc định 80).
+3. Mở trình duyệt web bất kỳ và truy cập đường dẫn:
+   ```
+   http://localhost/html-fundamentals-lab/
+   ```
 
-- index.html: Portfolio với About, Skills, Projects, Education, Contact.
-- Ba section bổ sung: Mục tiêu học tập, Nhật ký thực hành, Sáu bài HTML.
-- bai-1-headings.html đến bai-6-topic.html: sáu bài Phần 1.
-- images/: ảnh gốc Resources và ba ảnh SVG đã cá nhân hóa từ mẫu.
+---
 
-## Cá nhân hóa
+## 📂 Cấu trúc Tệp & Thư mục
 
-Thay tên Hồng nếu cần, email hong.student@example.com và mô tả kỹ năng/kế hoạch
-cho đúng bản thân. Không ghi ý tưởng dự án thành dự án đã triển khai.
-Bài 2 dùng trường, địa chỉ và email giả định, đã ghi rõ trên trang.
+- `index.html`: Trang Portfolio cá nhân chính gồm đầy đủ các mục chuẩn: Giới thiệu (About), Kỹ năng (Skills), Dự án (Projects), Kế hoạch Học tập (Education với Table dữ liệu), Mục tiêu học tập, Nhật ký thực hành, Danh mục 6 bài thực hành và Biểu mẫu liên hệ tĩnh (Contact).
+- `bai-1-headings.html` đến `bai-6-topic.html`: Sáu trang chuyên đề thực hành độc lập thuộc Phần 1 theo đúng yêu cầu đề bài.
+- `style.css`: Hệ thống thiết kế Vanilla CSS hiện đại (Design Tokens, Typography Plus Jakarta Sans, Card Layout, Responsive Mobile-first).
+- `images/`: Chứa các tài nguyên hình ảnh bài học (`cats.gif`, `scene.jpg`, `space.jpg`, `book.jpg`) và các đồ họa vector SVG (`profile-hong.svg`, `project-web-lab.svg`, `project-data-plan.svg`).
 
-## Phạm vi
+---
 
-Form tĩnh: nút minh họa type="button" không gửi dữ liệu; reset xóa dữ liệu thử.
-Không có backend/database. Các external link dùng URL tuyệt đối;
-ảnh và bài con dùng đường dẫn tương đối; điều hướng section dùng fragment.
+## 🎯 Điểm nổi bật về Kỹ thuật & UI/UX
 
-## Nguồn tài nguyên
+1. **Chuẩn ngữ nghĩa HTML5 (Semantic Structure):**
+   - Sử dụng triệt để các thẻ cấu trúc: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<figure>`, `<figcaption>`, `<footer>`.
+   - Cấu trúc lồng thẻ LIFO nghiêm ngặt, không crossing tags.
+   - Thẻ `<table>` phân cấp chuẩn: `caption`, `thead`, `tbody`, `tr`, `th scope="col"`, `td`.
+   - Biểu mẫu tĩnh chuẩn trợ năng (Accessibility): `label for` liên kết chính xác 100% với `input id`.
 
-Ảnh cats.gif, scene.jpg, space.jpg, book.jpg: Resources/Requirements do đề bài cung cấp.
-Ảnh profile-hong.svg, project-web-lab.svg, project-data-plan.svg: chỉnh sửa tên,
-màu hoặc nội dung từ ba SVG trong Resources/Instruction cho portfolio này.
-Chỉ dùng tài nguyên theo phạm vi bài học, không khẳng định sở hữu ảnh gốc.
+2. **Nâng cấp UI/UX Hiện đại:**
+   - Font chữ Google Fonts `Plus Jakarta Sans` chuyên nghiệp, sắc nét.
+   - Bảng màu hài hòa Slate & Royal Blue mang phong cách website công nghệ/học thuật hiện đại.
+   - Điều hướng mượt mà với hiệu ứng hover và nút cuộn về đầu trang `#top`.
+   - Nút quay lại `← Về trang chính` trên tất cả 6 bài con giúp trải nghiệm điều hướng liền mạch.
+
+---
+
+## 🛠️ Quản lý Mã nguồn (Git/GitHub)
+
+- **Repository:** `https://github.com/gnii9/WD-Lab01-HTML-Fundamentals.git`
+- **Nhánh chính:** `main`
+- **Tác giả:** Lê Thị Hồng Đang (gnii9) — Cử nhân Toán - Tin học, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM
