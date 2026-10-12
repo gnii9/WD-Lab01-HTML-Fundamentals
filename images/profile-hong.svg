@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480">
+  <rect width="480" height="480" fill="#eef2ff"/>
+  <circle cx="240" cy="165" r="82" fill="#d1d5db"/>
+  <circle cx="240" cy="145" r="54" fill="#9ca3af"/>
+  <path d="M140 395c14-88 66-137 100-137s86 49 100 137" fill="#334155"/>
+  <text x="240" y="446" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">Hong | Toan Tin</text>
+</svg>

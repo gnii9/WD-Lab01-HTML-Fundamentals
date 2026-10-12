@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="480" viewBox="0 0 840 480">
+  <rect width="840" height="480" fill="#f8fafc"/>
+  <rect x="90" y="55" width="660" height="370" fill="#ffffff" stroke="#111827" stroke-width="4"/>
+  <rect x="120" y="90" width="600" height="52" fill="#e5e7eb"/>
+  <text x="420" y="124" text-anchor="middle" font-family="Arial" font-size="25" fill="#111827">HTML Lab | 6 Practice Pages</text>
+  <rect x="120" y="175" width="260" height="24" fill="#cbd5e1"/>
+  <rect x="120" y="218" width="560" height="18" fill="#e5e7eb"/>
+  <rect x="120" y="250" width="520" height="18" fill="#e5e7eb"/>
+  <rect x="120" y="305" width="240" height="78" fill="#e0e7ff"/>
+  <rect x="390" y="305" width="240" height="78" fill="#fef3c7"/>
+</svg>
