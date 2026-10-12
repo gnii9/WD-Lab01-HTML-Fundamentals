@@ -44,4 +44,3 @@ Dự án Portfolio cá nhân và sáu chuyên đề thực hành HTML5 chuẩn s
 
 - **Repository:** `https://github.com/gnii9/WD-Lab01-HTML-Fundamentals.git`
 - **Nhánh chính:** `main`
-- **Tác giả:** Lê Thị Hồng Đang (gnii9) — Cử nhân Toán - Tin học, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM
